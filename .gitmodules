@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/Azimuth-Fatec/FRONT_ABP-2025.2.git
+[submodule "back"]
+	path = back
+	url = https://github.com/Azimuth-Fatec/BACK_ABP-2025.2.git
